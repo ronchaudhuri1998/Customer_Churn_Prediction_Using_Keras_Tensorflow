@@ -8,7 +8,7 @@ Building and Optimizing Deep Learning Models for Customer Churn Prediction using
 - Leveraged Key Deep Learning Concepts such as activation functions (ReLU, Tanh, Sigmoid), loss function (Binary Crossentropy), and Adam optimizer to enhance performance. The project demonstrates efficient hyperparameter tuning, model evaluation, and scalability, critical for real-world ML applications.
 
 Model Performance Comparison
-## Hyperparameter Tuning Results
+# Hyperparameter Tuning Results
 
 | Method               | Test Loss      | Test Accuracy | Time (seconds) |
 |----------------------|---------------|--------------|---------------|
