@@ -1,4 +1,4 @@
-# Customer_Churn_Prediction_Using_Keras_Tensorflow
+## Customer_Churn_Prediction_Using_Keras_Tensorflow
 Building and Optimizing Deep Learning Models for Customer Churn Prediction using Hyperparameter Tuning
 
 - Built a Deep Learning Model for Customer Churn Prediction using TensorFlow and Keras, applying feature engineering (scaling, one-hot encoding) on structured financial data. Designed a feedforward neural network with tunable layers, activation functions, and learning rates.
