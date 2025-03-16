@@ -12,8 +12,8 @@ Hyperparameter Tuning Results
 
 | Method               | Test Loss      | Test Accuracy | Time (seconds) |
 |----------------------|---------------|--------------|---------------|
-| Random Search       | 1.203229e-06   | 1.0          | 31.856560     |
-| Bayesian Optimization | 1.675781e-06  | 1.0          | 33.066275     |
-| Hyperband          | 4.849755e-08   | 1.0          | 17.171951     |
+| Random Search       | 1.203229e-06   | 0.964          | 31.856560     |
+| Bayesian Optimization | 1.675781e-06  | 0.955         | 33.066275     |
+| Hyperband          | 4.849755e-08   | 0.985         | 17.171951     |
 
 
